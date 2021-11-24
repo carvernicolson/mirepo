@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Una casa con diez pinos</title>
+</head>
+    <!--y acà empezarìa a la cosa -->
+<body>
+    <h1>La casa</h1>
+    <p style="color: firebrick;" >Resulta que Don Juan Ruben solìa trabajar en cosas de campo, a ser cuidado de animales,
+         reparaciones de tractor, campo y esas cosas.....La cosa es que en su distrito
+          no encajaba, solia pelearse con los vecinos, la poli lo perseguia y tenia demasiados kilombos....decide rajar.
+           Localzarse en otro lado, lejos, empezando de cero.</p>
+           <br>          <br>
+           <img src="pruebas/en-piedra.jpg" >
+           <br>           <br>
+           <h2>El perro</h2>
+           <p>Hacia añares que vivia con Thomas, su can fiel y grande
+               Una bestia que comia lo que se le cruzaba.
+           </p>
+</body>
+</html>
